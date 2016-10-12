@@ -1,0 +1,7 @@
+{
+	"dbname": "mycar",
+	"port": "27017",
+	"host": "localhost",
+	"statuscache": 1000,
+	"cityscache": 1000
+}
